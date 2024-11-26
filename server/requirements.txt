@@ -1,4 +1,4 @@
-aiohttp==3.5.4
+aiohttp==3.7.4
 APScheduler==3.6.3
 feedparser==5.2.1
 motor==2.1.0
